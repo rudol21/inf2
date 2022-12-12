@@ -1,0 +1,26 @@
+/ Pecivo
+100 Rohlik Vilija 0.06 psenicna 100
+101 Chlieb Vilija 1.20 psenicna 25
+102 Zemla Vilija 0.20 celozrnna 40
+103 Kaiserka Vilija 0.08 spaldova 47
+/ ZelOvoc
+150 Banany HolaBananna 0.40 Ecuador 45
+151 Jablka Gala 0.35 Slovensko 200
+152 Pomarance Maduar 0.54 Madagaskar 70
+153 Mandarinky Maduar 0.21 Madagaskar 70
+154 Jablka Cestvejablka 0.25 Slovensko 100
+155 Uhorky Zamio 0.65 Slovensko 150
+156 Paprika Zamio 0.45 Slovensko 50
+157 LadovySalat Rozzel 0.99 Polsko 25
+158 Cibula Zamio 0.9 Slovensko 300
+159 Mrkva Rozzel 0.15 Polsko 220
+/ Ine
+200 Sparadla Drevix 1.00 20
+201 SackyPotravinarske Mikrote 1.25 30
+/ Sladke
+250 Horalky Sedita 0.39 arasidove 500
+251 Tatranky Sedita 0.40 mliecne 400
+252 Vexta Jojo 0.65 ovocne 200
+253 Koka Opavia 1.69 kokosove 120
+254 Cokolada Milka 1.12 mliecna 80
+255 Cokolada Orion 0.98 orieskova 80
